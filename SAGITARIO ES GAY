@@ -2,7 +2,7 @@
 -- By: TuLoader
 
 -- URL del script en Pastefy
-local SCRIPT_URL = "https://raw.githubusercontent.com/yupiliano740-sys/Script/refs/heads/main/Script"
+local SCRIPT_URL = "https://raw.githubusercontent.com/yupiliano740-sys/Script-VIPS/refs/heads/main/Sagitariomelomama"
 
 -- Función para cargar y ejecutar el script remoto
 local function loadRemoteScript(url)
